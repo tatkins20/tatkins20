@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 
-<p align="center">I'm [Your Name], a passionate data enthusiast and tech aficionado, currently pursuing my career journey in the realm of data science and machine learning. Welcome to my GitHub profile!</p>
+<p align="center">I'm Trevor Atkins, a passionate data enthusiast and tech aficionado, currently pursuing my career journey in the realm of data science and machine learning. Welcome to my GitHub profile!</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/trevor-atkins"><img src="https://img.shields.io/badge/-Connect%20with%20Me-blue?style=flat&logo=linkedin" alt="Connect with Me"></a>
