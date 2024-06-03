@@ -32,6 +32,6 @@ I'm Trevor Atkins, a passionate data enthusiast and tech aficionado, currently p
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/trevor-atkins) for professional collaborations and discussions!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/trevor-atkins/) for professional collaborations and discussions!
 
 Thanks for visiting! 😊
