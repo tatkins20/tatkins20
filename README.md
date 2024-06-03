@@ -13,7 +13,7 @@
 <h2 align="center">🌟 About Me 🌟</h2>
 
 <!-- Skills & Experience -->
-<p align="center">With a Master's in Science from the University of Saarland and a Bachelor's from Union College, I've honed my expertise in Python, R, SQL, and more. From leading database development at Ceres Technologies to orchestrating technical marvels at Union College Radio Station, my journey has been nothing short of exhilarating!</p>
+<p align="center">With a Bachelor's from Union College, I've honed my expertise in Python, R, SQL, and more. From leading database development at Ceres Technologies to orchestrating technical marvels at Union College Radio Station, my journey has been nothing short of exhilarating!</p>
 
 <!-- Achievements -->
 <p align="center">My dedication has been recognized through prestigious awards like the Erasmus Mundus LCT Master’s Scholarship and the AsiaNetwork Fellowship. These experiences have fortified my resolve to innovate and excel in the ever-evolving landscape of data-driven solutions.</p>
