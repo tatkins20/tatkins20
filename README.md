@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Trevor Atkins], a passionate data enthusiast and tech aficionado, currently pursuing my career journey in the realm of data science and machine learning. Welcome to my GitHub profile!
+I'm Trevor Atkins, a passionate data enthusiast and tech aficionado, currently pursuing my career journey in the realm of data science and machine learning. Welcome to my GitHub profile!
 
 ## About Me
 
